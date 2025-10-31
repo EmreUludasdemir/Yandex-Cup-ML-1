@@ -1,0 +1,15 @@
+.git
+.gitignore
+*.md
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache
+.coverage
+*.log
+*.tmp
+.vscode
+.idea
+*.dvc
+.dvc
